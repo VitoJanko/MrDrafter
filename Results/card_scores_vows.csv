@@ -1,0 +1,273 @@
+,name,grade,win_rate,rarity,colors
+0,Abrade,B,0.5810472054513999,common,R
+1,Adamant Will,C,0.529186262498518,common,W
+2,Aim for the Head,D,0.5064102564102564,common,B
+3,Alchemist's Gambit,D,0.48518204911092294,rare,R
+4,Alchemist's Retrieval,C,0.5429547865027301,common,U
+5,Alluring Suitor,B,0.5877437325905293,uncommon,R
+6,Ancestral Anger,C,0.5538579720040969,common,R
+7,Ancient Lumberknot,C,0.5521720430107527,uncommon,"B,G"
+8,Angelic Quartermaster,B,0.5797539099472664,uncommon,W
+9,"Anje, Maid of Dishonor",A,0.6348399653979239,rare,"B,R"
+10,Apprentice Sharpshooter,C,0.5240921787709497,common,G
+11,Archghoul of Thraben,C,0.5346959516684546,uncommon,B
+12,Arm the Cathars,D,0.493560448691317,uncommon,W
+13,Ascendant Packleader,C,0.5641891891891891,rare,G
+14,Avabruck Caretaker,A,0.6606929510155317,mythic,G
+15,Ballista Watcher,C,0.5604750088621057,uncommon,R
+16,Belligerent Guest,C,0.5352249478187191,common,R
+17,Binding Geist,C,0.5286986890722276,common,U
+18,Biolume Egg,B,0.5996397117694156,uncommon,U
+19,Bleed Dry,B,0.5747005012249669,common,B
+20,Blood Fountain,C,0.5345907073213282,common,B
+21,Blood Hypnotist,C,0.5341113105924596,uncommon,R
+22,Blood Petal Celebrant,C,0.5395992988454128,common,R
+23,Blood Servitor,D,0.4957287082578307,common,
+24,Bloodcrazed Socialite,C,0.5595566945119314,common,B
+25,Bloodsworn Squire,D,0.49087856743144936,uncommon,B
+26,Bloodtithe Harvester,A,0.6225484942664238,uncommon,"B,R"
+27,Bloodvial Purveyor,B,0.617231207405147,rare,B
+28,Bloody Betrayal,C,0.5388008270158512,common,R
+29,Boarded Window,F,0.43618167821401077,uncommon,
+30,Bramble Armor,D,0.47716477895506026,common,G
+31,Bramble Wurm,B,0.5745282601970922,uncommon,G
+32,Bride's Gown,F,0.46612576064908723,uncommon,W
+33,Brine Comber,B,0.6003578884580972,uncommon,"U,W"
+34,By Invitation Only,C,0.5710078972025164,rare,W
+35,Cartographer's Survey,F,0.4472630173564753,uncommon,G
+36,Catapult Fodder,C,0.5468079892170077,uncommon,B
+37,Cemetery Desecrator,A,0.6398505114083399,mythic,B
+38,Cemetery Gatekeeper,C,0.5541180183023036,mythic,R
+39,Cemetery Illuminator,B,0.578883788354675,mythic,U
+40,Cemetery Protector,B,0.5766745005875441,mythic,W
+41,Cemetery Prowler,C,0.5628500311138768,mythic,G
+42,Ceremonial Knife,D,0.4944688874921433,common,
+43,"Chandra, Dressed to Kill",C,0.530932594644506,mythic,R
+44,Change of Fortune,F,0.38392857142857145,rare,R
+45,Child of the Pack,C,0.5596990151598982,uncommon,"G,R"
+46,Chill of the Grave,C,0.5547567125528146,common,U
+47,Circle of Confinement,C,0.5669862772695285,uncommon,W
+48,Cloaked Cadet,D,0.5091846600064454,uncommon,G
+49,Cobbled Lancer,C,0.537862038470042,uncommon,U
+50,Concealing Curtains,B,0.5972372113101662,rare,B
+51,Consuming Tide,F,0.44154676258992803,rare,U
+52,Courier Bat,C,0.5423705722070845,common,B
+53,Cradle of Safety,C,0.545769097689439,common,U
+54,Crawling Infestation,D,0.49825783972125437,uncommon,G
+55,Creepy Puppeteer,C,0.5663246383978242,rare,R
+56,Cruel Witness,C,0.5492015688471775,common,U
+57,Crushing Canopy,D,0.4999030444056622,common,G
+58,Cultivator Colossus,C,0.5382599580712788,mythic,G
+59,Curse of Hospitality,F,0.46895137668424136,rare,R
+60,Dawnhart Disciple,D,0.5203111026801441,common,G
+61,Dawnhart Geist,D,0.5111987603887872,uncommon,W
+62,Daybreak Combatants,D,0.5051807760141094,common,R
+63,Deathcap Glade,C,0.528084493518963,rare,
+64,Demonic Bargain,D,0.4827586206896552,rare,B
+65,Desperate Farmer,C,0.5458298543464143,common,B
+66,Dig Up,D,0.5148063781321185,rare,G
+67,Diregraf Scavenger,C,0.5674197412843814,common,B
+68,Distracting Geist,D,0.5164277559304833,uncommon,W
+69,Diver Skaab,B,0.5868970344915362,uncommon,U
+70,Dollhouse of Horrors,C,0.5701225846665281,rare,
+71,Dominating Vampire,C,0.5441203116506613,rare,R
+72,Doomed Dissenter,C,0.5418941288345719,common,B
+73,Dormant Grove,C,0.5702015864194412,uncommon,G
+74,"Dorothea, Vengeful Victim",C,0.5554620079983161,rare,"U,W"
+75,Dread Fugue,D,0.48166786484543495,uncommon,B
+76,Dreadfeast Demon,A,0.6646982838162022,rare,B
+77,Dreadlight Monstrosity,D,0.5014157228514324,common,U
+78,Dreamroot Cascade,C,0.5327683615819209,rare,
+79,Dreamshackle Geist,A,0.626878488621726,rare,U
+80,Drogskol Infantry,C,0.5463562722613805,common,W
+81,Dying to Serve,F,0.46618433469644543,rare,B
+82,Edgar's Awakening,D,0.5170343932511356,uncommon,B
+83,"Edgar, Charmed Groom",B,0.6107454828287663,rare,"B,W"
+84,End the Festivities,F,0.47055176689398637,common,R
+85,"Eruth, Tormented Prophet",C,0.5587404117884538,rare,"R,U"
+86,Estwald Shieldbasher,D,0.5026393417171247,common,W
+87,Evolving Wilds,C,0.5445782513141492,common,
+88,Faithbound Judge,B,0.6119041858214372,mythic,W
+89,Falkenrath Celebrants,C,0.5661389857794473,common,R
+90,Falkenrath Forebear,C,0.5711601690934711,rare,B
+91,Fear of Death,D,0.5178155648063218,common,U
+92,Fearful Villager,C,0.5415319227570914,common,R
+93,Fell Stinger,B,0.5789295278126165,uncommon,B
+94,Fierce Retribution,C,0.5636737034912764,common,W
+95,Flame-Blessed Bolt,B,0.5800641778902649,common,R
+96,Fleeting Spirit,C,0.5599962117624775,uncommon,W
+97,Flourishing Hunter,C,0.5538348775583078,common,G
+98,Foreboding Statue,C,0.5373705423192694,uncommon,
+99,Forest,C,0.5262774962634768,common,
+100,Frenzied Devils,D,0.4894009216589862,uncommon,R
+101,Geistlight Snare,C,0.562763172869011,uncommon,U
+102,"Geralf, Visionary Stitcher",B,0.5995103539732735,rare,U
+103,Gift of Fangs,C,0.5419475305760433,common,B
+104,Glorious Sunrise,B,0.599813059153425,rare,G
+105,Gluttonous Guest,C,0.5467993117110344,common,B
+106,Graf Reaver,D,0.5182887001959504,rare,B
+107,Grisly Ritual,C,0.5454545454545454,common,B
+108,"Grolnok, the Omnivore",C,0.5429951690821256,rare,"G,U"
+109,Groom's Finery,D,0.48634453781512604,uncommon,B
+110,Gryff Rider,C,0.524041472409714,common,W
+111,Gryffwing Cavalry,D,0.5161642078255292,uncommon,W
+112,Gutter Skulker,C,0.5327173913043478,uncommon,U
+113,"Halana and Alena, Partners",A,0.6720264317180616,rare,"G,R"
+114,Hallowed Haunting,C,0.5600328947368421,mythic,W
+115,Hamlet Vanguard,C,0.5347316193053676,rare,G
+116,Headless Rider,B,0.5721014492753623,rare,B
+117,Henrika Domnathi,A,0.6598257502420135,mythic,B
+118,Hero's Downfall,B,0.5738594689746223,rare,B
+119,Heron of Hope,C,0.5564540225591992,common,W
+120,Heron-Blessed Geist,C,0.5397077703735403,common,W
+121,Hiveheart Shaman,C,0.5666371345399317,rare,G
+122,Honeymoon Hearse,D,0.5033098882912702,uncommon,R
+123,Honored Heirloom,D,0.49197163583014103,common,
+124,Hookhand Mariner,C,0.5477935562681325,common,G
+125,Hopeful Initiate,C,0.5603883495145631,rare,W
+126,Howling Moon,C,0.5435779816513762,rare,G
+127,Howlpack Piper,B,0.58075810625666,rare,G
+128,Hullbreaker Horror,B,0.6213887480993411,rare,U
+129,Hungry Ridgewolf,C,0.5385298185496357,common,R
+130,Ill-Tempered Loner,B,0.5939086294416244,rare,R
+131,Infestation Expert,B,0.5753716630255236,uncommon,G
+132,Innocent Traveler,C,0.538121546961326,uncommon,B
+133,Inspired Idea,C,0.5450420168067227,rare,U
+134,Into the Night,D,0.47244094488188976,uncommon,R
+135,Investigator's Journal,D,0.5208,rare,
+136,Island,C,0.5402710858930561,common,
+137,"Jacob Hauken, Inspector",B,0.5764879488440728,mythic,U
+138,"Katilda, Dawnhart Martyr",A,0.6489242631513493,rare,W
+139,"Kaya, Geist Hunter",F,0.464327485380117,mythic,"B,W"
+140,Kessig Flamebreather,C,0.5433966690124326,common,R
+141,Kessig Wolfrider,C,0.5592115014080332,rare,R
+142,Kindly Ancestor,C,0.5625911582759141,common,W
+143,Lacerate Flesh,D,0.5215735391851133,common,R
+144,Laid to Rest,F,0.436702649656526,uncommon,G
+145,Lambholt Raconteur,D,0.5197517294885886,uncommon,R
+146,Lantern Bearer,C,0.5677235647221794,common,U
+147,Lantern Flare,C,0.5631925936316454,rare,W
+148,Lantern of the Lost,D,0.5074626865671642,uncommon,
+149,Lightning Wolf,D,0.5113230035756854,common,R
+150,Lunar Rejection,B,0.5903599451986549,uncommon,U
+151,Magma Pummeler,C,0.5231950234928198,uncommon,R
+152,Manaform Hellkite,B,0.604297440849831,mythic,R
+153,Markov Purifier,B,0.5838601506239349,uncommon,"B,W"
+154,Markov Retribution,C,0.5484375,uncommon,R
+155,Markov Waltzer,C,0.5674795390011692,uncommon,"R,W"
+156,Massive Might,C,0.5349878345498783,common,G
+157,Militia Rallier,D,0.5111235595390525,common,W
+158,Mindleech Ghoul,C,0.526807038065994,common,B
+159,Mirrorhall Mimic,B,0.5740210124164279,rare,U
+160,Mischievous Catgeist,C,0.527250682024856,uncommon,U
+161,Moldgraf Millipede,D,0.5126906891109942,common,G
+162,Mountain,C,0.5403352636699845,common,
+163,Mulch,D,0.50472179683512,common,G
+164,Nature's Embrace,D,0.47841306884480744,common,G
+165,Nebelgast Beguiler,D,0.5191193511008111,common,W
+166,Necroduality,B,0.5913214990138067,mythic,U
+167,Nurturing Presence,C,0.5573551125876707,common,W
+168,Oakshade Stalker,C,0.5303311258278146,uncommon,G
+169,"Odric, Blood-Cursed",C,0.5288808664259927,rare,"R,W"
+170,Old Rutstein,B,0.5823948517582165,rare,"B,G"
+171,Olivia's Attendants,B,0.5911398246423627,rare,R
+172,"Olivia, Crimson Bride",B,0.5752713544124587,mythic,"B,R"
+173,Ollenbock Escort,D,0.49561927518916765,uncommon,W
+174,Overcharged Amalgam,B,0.5906918525261721,rare,U
+175,Packsong Pup,C,0.569701970682458,uncommon,G
+176,Panicked Bystander,C,0.5594485076101996,uncommon,W
+177,Parasitic Grasp,B,0.5910808279781703,uncommon,B
+178,Parish-Blade Trainee,C,0.5253485579868172,common,W
+179,Patchwork Crawler,F,0.4676056338028169,rare,U
+180,Path of Peril,C,0.5423190378942592,rare,B
+181,Persistent Specimen,C,0.525835249560395,common,B
+182,Piercing Light,C,0.5227030937486702,common,W
+183,Plains,C,0.5338829948469234,common,
+184,Pointed Discussion,C,0.5588405268120571,common,B
+185,Pyre Spawn,D,0.5192761006767547,common,R
+186,Radiant Grace,D,0.47675879396984927,uncommon,W
+187,Ragged Recluse,C,0.5426998948735391,common,B
+188,Reckless Impulse,C,0.5437361890192078,common,R
+189,Reclusive Taxidermist,C,0.5554778045047015,uncommon,G
+190,Rending Flame,B,0.5868136313075134,uncommon,R
+191,Repository Skaab,C,0.537987449574182,common,U
+192,Resistance Squad,C,0.5643198362147407,uncommon,W
+193,Restless Bloodseeker,C,0.5562635297961851,uncommon,B
+194,Retrieve,D,0.49118046132971505,uncommon,G
+195,Rot-Tide Gargantua,C,0.5482949009418643,common,B
+196,Runebound Wolf,C,0.533375278842304,uncommon,R
+197,Runo Stromkirk,D,0.5186311787072243,rare,"B,U"
+198,Rural Recruit,C,0.5251442329532549,common,G
+199,Sanctify,F,0.4383561643835616,common,W
+200,Sanguine Statuette,C,0.5419497671577983,uncommon,R
+201,Savior of Ollenbock,C,0.5650030807147258,mythic,W
+202,Sawblade Slinger,C,0.5264231096006797,uncommon,G
+203,Scattered Thoughts,C,0.5622961363531952,common,U
+204,Screaming Swarm,D,0.5167326546003017,uncommon,U
+205,Selhoff Entomber,D,0.5199617956064947,common,U
+206,Serpentine Ambush,D,0.505550193050193,common,U
+207,Shattered Sanctum,C,0.530636292223095,rare,
+208,Sheltering Boughs,D,0.5003403675970047,common,G
+209,Sigarda's Imprisonment,C,0.5665998229544921,common,W
+210,Sigarda's Summons,D,0.49161676646706587,rare,W
+211,Sigardian Paladin,C,0.5448269513991163,uncommon,"G,W"
+212,Skulking Killer,C,0.5227039243887405,uncommon,B
+213,Skull Skaab,C,0.5651595112442352,uncommon,"B,U"
+214,Skywarp Skaab,D,0.5213912416651649,common,U
+215,Snarling Wolf,C,0.5285731943471633,common,G
+216,Sorin the Mirthless,A,0.6325036603221084,mythic,B
+217,Soulcipher Board,D,0.5060449050086355,uncommon,U
+218,Spiked Ripsaw,D,0.5215686274509804,uncommon,G
+219,Splendid Reclamation,F,0.3484848484848485,rare,G
+220,Spore Crawler,C,0.5439546415809815,common,G
+221,Sporeback Wolf,C,0.5322021931469674,common,G
+222,Steelclad Spirit,C,0.5283304574426876,common,U
+223,Stensia Uprising,B,0.6115942028985507,rare,R
+224,Stitched Assistant,C,0.537541409257767,common,U
+225,Stormcarved Coast,C,0.5500886524822695,rare,
+226,Stormchaser Drake,B,0.5722825470091938,uncommon,U
+227,Sundown Pass,C,0.5416666666666666,rare,
+228,Supernatural Rescue,D,0.49452154857560265,common,W
+229,Sure Strike,C,0.5312562412622329,common,R
+230,Swamp,C,0.5410143249486796,common,
+231,Syncopate,C,0.5557474365893146,common,U
+232,Syphon Essence,C,0.5552537052129554,common,U
+233,"Thalia, Guardian of Thraben",D,0.512675418741512,rare,W
+234,Thirst for Discovery,B,0.5721800116890707,uncommon,U
+235,"Torens, Fist of the Angels",C,0.5648198939477053,rare,"G,W"
+236,Toxic Scorpion,D,0.516064139941691,common,G
+237,"Toxrill, the Corrosive",A,0.6751697559185171,mythic,B
+238,Traveling Minister,B,0.576336131770466,common,W
+239,Twinblade Geist,C,0.5616425527929952,uncommon,W
+240,Ulvenwald Oddity,B,0.5858377933305887,rare,G
+241,Undead Butler,C,0.5519581805151553,uncommon,B
+242,Undying Malice,C,0.5446612838987653,common,B
+243,Unhallowed Phalanx,D,0.5052016985138005,common,B
+244,Unholy Officiant,D,0.4958933829226716,common,W
+245,Valorous Stance,B,0.5826553419758606,uncommon,W
+246,Vampire Slayer,D,0.5165080008102086,common,W
+247,Vampire's Kiss,D,0.49045728192647625,common,B
+248,Vampires' Vengeance,B,0.5790785969286564,uncommon,R
+249,Vilespawn Spider,C,0.5681159420289855,uncommon,"G,U"
+250,Voice of the Blessed,C,0.5707231602421153,rare,W
+251,Volatile Arsonist,A,0.6358595194085028,mythic,R
+252,Voldaren Bloodcaster,B,0.6139846743295019,rare,B
+253,Voldaren Epicure,C,0.5542026708562451,common,R
+254,Voldaren Estate,C,0.542319749216301,rare,
+255,Voltaic Visionary,B,0.5839115133232781,uncommon,R
+256,Wandering Mind,B,0.5922749634357133,uncommon,"R,U"
+257,Wanderlight Spirit,D,0.5039491941509232,common,U
+258,Wash Away,D,0.5145916076670696,uncommon,U
+259,Weary Prisoner,D,0.4948779320248923,common,R
+260,Weaver of Blossoms,C,0.5482435033686237,common,G
+261,Wedding Announcement,A,0.6668845315904139,rare,W
+262,Wedding Invitation,C,0.5585294293754866,common,
+263,Wedding Security,C,0.5238406658739596,uncommon,B
+264,Welcoming Vampire,A,0.6253035734936973,rare,W
+265,Whispering Wizard,C,0.5516025496134894,uncommon,U
+266,Winged Portent,D,0.48788198103266595,rare,U
+267,Witch's Web,C,0.5358638743455497,common,G
+268,Witness the Future,D,0.5214334705075446,uncommon,U
+269,Wolf Strike,C,0.5550534742635562,common,G
+270,Wolfkin Outcast,C,0.5406333234684818,uncommon,G
+271,Wretched Throng,C,0.5428396987992673,common,U
